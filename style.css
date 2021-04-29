@@ -1,0 +1,25 @@
+body {
+    overflow: hidden;
+}
+
+img {
+    position: absolute;
+    left: 25%
+}
+
+.bridge {
+    top: 10%;
+}
+
+.bell {
+    left: 20%;
+}
+
+.feather {
+    left: 20%
+}
+
+.vod {
+    position: absolute;
+    left: 15%;
+}
